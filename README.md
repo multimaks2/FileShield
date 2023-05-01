@@ -12,4 +12,4 @@
 - VK: https://vk.com/shagi_za_gigi
 - Discord: LLIEPLLIEHb#7162 
 
-[![Discord](https://img.shields.io/discord/278474088903606273?label=discord&logo=discord)](https://discord.com/invite/mtasa)
+[![Discord](https://img.shields.io/discord/1075519000534057020?label=discord&logo=discord)](https://discord.gg/aDqbVtJ3Kj)
