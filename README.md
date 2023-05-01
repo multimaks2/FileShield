@@ -1,6 +1,6 @@
 ## Авторские права (c) 2023 Максим Мальцев (псевдоним LLIEPLLIEHb).
 
-[![Discord](https://img.shields.io/discord/1075519000534057020?label=discord&logo=discord)](https://discord.gg/aDqbVtJ3Kj)
+Мой дискорд сервер [![Discord](https://img.shields.io/discord/1075519000534057020?label=discord&logo=discord)](https://discord.gg/aDqbVtJ3Kj)
 
 Данная лицензия позволяет другим лицам распространять, изменять и использовать данный программный код только в некоммерческих целях. Продажа и перепродажа данного программного кода запрещены.
 
