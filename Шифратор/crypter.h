@@ -90,7 +90,7 @@ std::vector<unsigned char> LoadFromFile(const wchar_t* filename) {
 
 
 //----------------------------------------------------------------------------------
-//                       Я ебал этот С++ отсюда же и вызову метод
+//                       Я ебал этот С++
 //----------------------------------------------------------------------------------
 
 void Metod1(wchar_t* KeyBuffer, wchar_t* InputBuffer, wchar_t* OutputBuffer)
