@@ -1,0 +1,17 @@
+﻿  Encoder.cpp
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\Header.h(225,19): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\Header.h(230,40): warning C4244: =: преобразование "const wchar_t" в "char", возможна потеря данных
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\Header.h(241,18): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\crypter.h(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\crypter.h(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\crypter.h(54,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\crypter.h(60,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\Encoder.cpp(78,39): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\Encoder.cpp(82,50): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\Encoder.cpp(227,42): warning C4302: приведение типов: усечение из "wchar_t *" к "wchar_t"
+E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Шифратор\Encoder.cpp(267,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 353 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Шифратор.vcxproj -> E:\ОСТАВИТЬ\RG_TEAM\git\LLIEPLLIEHb\Шифратор\Release\Шифратор.exe
