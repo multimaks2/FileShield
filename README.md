@@ -11,3 +11,5 @@
 Контактные данные автора (от 01.05.2023) :
 - VK: https://vk.com/shagi_za_gigi
 - Discord: LLIEPLLIEHb#7162 
+
+[![Discord](https://img.shields.io/discord/278474088903606273?label=discord&logo=discord)](https://discord.com/invite/mtasa)
