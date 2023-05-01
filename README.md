@@ -21,9 +21,9 @@
 
 
 #### Контактные данные автора (от 01.05.2023) :
-- VK Сommunity: https://vk.com/studiomoonmta
-- VK:           https://vk.com/shagi_za_gigi
-- Discord: LLIEPLLIEHb#7162 
+- VK Группы: https://vk.com/studiomoonmta
+- Мой VK:           https://vk.com/shagi_za_gigi
+- Мой Discord: `LLIEPLLIEHb#7162`
 
 ## License
 
