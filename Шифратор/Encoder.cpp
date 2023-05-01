@@ -6,7 +6,7 @@ wchar_t szFileName[MAX_PATH] = { 0 }; // Глобальная переменна
 TrollingCont. 22.05.2020
 */
 
-#define IMG_ORIGIN_EDIT    100
+#define IMG_ORIGIN_EDIT    100 // .img
 #define IMG_ENCRYPTED_EDIT 101
 #define ENCRYPT_BUTTON     102
 #define Folder_Button      103
