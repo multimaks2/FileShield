@@ -13,5 +13,3 @@
 - Discord: LLIEPLLIEHb#7162 
 
 [![Discord](https://img.shields.io/discord/1075519000534057020?label=discord&logo=discord)](https://discord.gg/aDqbVtJ3Kj)
-
-<iframe src="https://discord.com/widget?id=1075519000534057020&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
