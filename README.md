@@ -14,7 +14,7 @@
 ```
 #### Платформа - Windows
 
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) Необходимо!
 
 1. Откройте `Шифратор.sln` выберите тип сборки `Release` платформа `x64`
 2. Скомпилируйте
