@@ -4,17 +4,17 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/multimaks2/FileShield)
 ##
 
-#### Платформа - Windows
 
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
-
-**Build instructions: Manual**
+**Инструкция по сборке приложения**
 ```sh
 Эта программа, а именно среда разработки Visual Studio 2022, является необходимым инструментом 
 для создания и компиляции программного кода на языках C++ и других.
 Без неё невозможно создавать программы, разрабатывать программные проекты
 и решать задачи в области компьютерного программирования.
 ```
+#### Платформа - Windows
+
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 
 1. Откройте `Шифратор.sln` выберите тип сборки `Release` платформа `x64`
 2. Скомпилируйте
