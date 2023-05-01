@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/1075519000534057020?label=discord&logo=discord)](https://discord.gg/aDqbVtJ3Kj)
 ![GitHub last commit](https://img.shields.io/github/last-commit/multimaks2/FileShield)
-
+##
 
 #### Платформа - Windows
 
